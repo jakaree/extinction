@@ -1,0 +1,23 @@
+body {
+	background-color: #F34213;
+	margin: 0;
+	padding: 0;
+
+}
+
+#wrapper {
+	background-color: #fff;
+	padding: 5%;
+	width: 60%;
+	margin: 0 auto;
+}
+
+header {
+	text-align: center;
+	padding: 40px 0;
+	background-color: #2E2E3A;
+}
+
+h1 {
+	color: #fff;
+}
